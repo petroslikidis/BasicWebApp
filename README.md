@@ -11,7 +11,10 @@
 4. Installera Visual Studio Code
    https://code.visualstudio.com/download
 
-5. Lägg till intellisens för C# i Visual Studio Code genom att starta VS Code tryck F1 och skriv "ext install" välj "C# for Visual Studio Code (powered by OmniSharp)" 
+5. Lägg till intellisens för C# i Visual Studio Code genom att starta VS Code tryck F1 och skriv "ext install" välj "C# for Visual Studio Code (powered by OmniSharp)"
+
+6. Följ instruktionen https://docs.asp.net/en/latest/client-side/yeoman.html för att komma igång med ett första projekt.
+
    
 
 #Installation av Docker for Windows
